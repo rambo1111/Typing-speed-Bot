@@ -2,6 +2,5 @@
 
 Link to the site - https://www.livechat.com/typing-speed-test/#/
 
-## Demo Video
-![Demo Video](https://www.youtube.com/embed/uygaJS_HeN0)
+Link to demo video - https://youtu.be/uygaJS_HeN0?si=qc1U5xrG9W0dN3ks
 
